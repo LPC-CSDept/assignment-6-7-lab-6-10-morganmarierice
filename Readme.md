@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8859500&assignment_repo_type=AssignmentRepo)
 [Assignment 6-7 Lab 6-10] (https://prezi.com/p/edit/-xdwv8fik5xk/)
 
 ## ![Assignment 6-7: Lab 6-10](https://nimbus-screenshots.s3.amazonaws.com/s/c4abf7d6ab3710be57bee5ced6c1522e.png)
